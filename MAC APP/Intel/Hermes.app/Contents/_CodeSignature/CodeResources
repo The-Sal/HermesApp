@@ -10,31 +10,31 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		zxUk9/u/EzQHxXQrc6X5j6g7f30=
+		FiDG2xtZTbwxFPoHQB7Sd3+mq8M=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/86V-e0-iDm-view-Qth-8O-UYr.nib</key>
 		<data>
-		YXd+ijt4MjK5Ry733uoK/ijJz/Y=
+		CBf7m4TbGcr5yw2rAP+iO4Um5Yc=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		SAgfySGCqSejABskeV3YLJUsNUk=
+		RGFENFuUVbGayYYjhvSt+6kHfqg=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		HqnlOMJXXV4kfrmr/3ppNxGlSNA=
+		t01kG1eN7XxaHPZzb67f0RZoaAA=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSViewController-86V-e0-iDm.nib</key>
 		<data>
-		fU9S2YR3U5s1mJxe0Gn8D82sewk=
+		uv14Ph3pNXgaF7irtUSacSQzOlo=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSViewController-XfG-lQ-9wD.nib</key>
 		<data>
-		5q/eta6nYOOHTgAxxetynWWJ0/Y=
+		7NflUApYidOcRWK487i55wgGGoc=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<data>
-		pQBoDH+veme1qQoN25ecD21XXq8=
+		jnjDIsgYj2vFDz2CbHKWOZ0eUwo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -43,16 +43,25 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			ePU9PkW5BwaUsk/6fxamoAFT9OE=
+			CEZ+hwZFu75Gf3rSGgFHkUSMLa4=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.Alamofire" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: king_sal_faris@hotmail.com (3DA4AD4TR7)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/Pods_Hermes.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			pQYWOP2tGhipk+iwiwMmxOa7Hno=
+			</data>
+			<key>requirement</key>
+			<string>identifier "org.cocoapods.Pods-Hermes" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: king_sal_faris@hotmail.com (3DA4AD4TR7)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/RNCryptor.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			vItLDtDruwoeil2QMD4k1g/e9HQ=
+			BKhDJoJZmLXAXDnJJjs/Z6VdK3k=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.RNCryptor" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: king_sal_faris@hotmail.com (3DA4AD4TR7)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -68,49 +77,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			135xVE4QLTJALUlnWmu0RNjZaVbhtu6qp5VMNYNosIA=
+			Ro1kGR0coay++hQ+BfWSAfxqPM9+MIY+l5XL7HWqWY4=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/86V-e0-iDm-view-Qth-8O-UYr.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pRi7CCBmL+Ksbh3/F1v6DrcnCS/a2pnoBLcb8OBnXko=
+			eOBvvu4YBXJrWaA37sGr5XUylN9N8h1rzlH5pvxpeqM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d3qBwK/5MBD+RZPoEnzJj59hwT9VsS4+v+hSuRh5D3w=
+			FRjcll7fyT8oA00EILSiK3GYGwbfkYeiTHRG5qQ5jQ8=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pDDN8W+8C9UiQAGaooQyQwy7tt6R4pOV7EBuKeZpswc=
+			Cs9aft0JwnW1h097Q+jB23E3JyufP1Fv3xid9J7Vzr0=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSViewController-86V-e0-iDm.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KeL6tVvsniShtld8dr2fzMg4XP04+yTJXrbF5rmW2yU=
+			FFfRiqPoWF5xpeyYfGGnsJ8ptXMb7QvKezYyj4KVKl4=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSViewController-XfG-lQ-9wD.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2mLUVXpgjS1zMbf0UnJT9+y6ds2+RERRiLiWsKpjRzg=
+			dvZvVAoBPWQbNtQhJa8oqhkT45yALFMZ2z5w+CF7dq4=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hqkjvl4K4DOiW5WjMia5U9qBEZNclcg2Gnu/r903gik=
+			jrRB9U6CFympEj73nsyUgY86EYqhQFgB5Nc1gPA8Yag=
 			</data>
 		</dict>
 	</dict>
